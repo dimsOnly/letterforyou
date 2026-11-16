@@ -1,0 +1,52 @@
+window.STANDALONE_CONFIG = {
+    "studioToken": "letter-test",
+    "giftId": "letter-test",
+    "recipientName": "yuna",
+    "to": "yuna",
+    "title": "Untukmu",
+    "date": "",
+    "letterTo": "Hai sayang,",
+    "salutation": "Hai sayang,",
+    "message": "Malam ini aku tiba-tiba kepikiran banyak hal tentang kita, dan rasanya nggak cukup kalau cuma aku simpen sendiri di kepala. Aku cuma mau kamu tahu seberapa bersyukurnya aku punya kamu di hidupku sekarang.\n\nKalau diingat-ingat lagi ke belakang, perjalanan aku sebelum ketemu kamu itu rasanya capek banget. Berkali-kali aku harus nerima \"seporsi kekalahan\"—entah itu ngerasa berjuang sendirian, ngerasa nggak cukup dipahami, atau harus nahan diri demi hal-hal yang ujungnya tetap bikin kecewa. Sempat ada titik di mana aku mikir, \"Apa emang cinta yang tulus dan nggak ribet itu nggak ada ya?\"\n\nSampai akhirnya kamu datang, dan pelan-pelan kamu jawab semua keraguan itu. Semua hal yang selama ini diam-diam aku cari, ternyata ada di kamu. Bersama kamu, untuk pertama kalinya aku ngerasa dapet seporsi kemenangan yang seutuhnya.\n\nYang paling aku suka dari kita adalah bagaimana semuanya terasa setara. Nggak ada yang mencintai lebih sedikit, nggak ada yang berjuang setengah-setengah. Kita sama-sama saling sayang, sama-sama mau ngerti tanpa harus diminta berkali-kali, dan yang paling bikin lega: di antara kita nggak ada yang namanya gengsi. Kalau kangen ya bilang kangen, kalau salah ya minta maaf, kalau capek ya saling nyender. Semuanya mengalir senyaman dan setenang itu.\n\nTerima kasih ya, udah bikin aku ngerasa dicintai secara gila-gilaan dan ugal-ugalan kayak gini. Terima kasih udah selalu nunjukin lewat sikap dan perhatian kamu kalau aku itu berharga dan pantas diusahakan. Kamu nggak cuma jadi pasangan buat aku, tapi juga jadi tempat pulang paling nyaman setelah hari-hari yang berat.\n\nJangan pernah berubah ya, sayang. Tetap jadi kamu yang hangat, yang pengertian, dan yang selalu bikin aku jatuh cinta lagi setiap harinya. Aku sayang banget sama kamu, lebih dari yang bisa aku tulis di sini.",
+    "letter_body": "Malam ini aku tiba-tiba kepikiran banyak hal tentang kita, dan rasanya nggak cukup kalau cuma aku simpen sendiri di kepala. Aku cuma mau kamu tahu seberapa bersyukurnya aku punya kamu di hidupku sekarang.\n\nKalau diingat-ingat lagi ke belakang, perjalanan aku sebelum ketemu kamu itu rasanya capek banget. Berkali-kali aku harus nerima \"seporsi kekalahan\"—entah itu ngerasa berjuang sendirian, ngerasa nggak cukup dipahami, atau harus nahan diri demi hal-hal yang ujungnya tetap bikin kecewa. Sempat ada titik di mana aku mikir, \"Apa emang cinta yang tulus dan nggak ribet itu nggak ada ya?\"\n\nSampai akhirnya kamu datang, dan pelan-pelan kamu jawab semua keraguan itu. Semua hal yang selama ini diam-diam aku cari, ternyata ada di kamu. Bersama kamu, untuk pertama kalinya aku ngerasa dapet seporsi kemenangan yang seutuhnya.\n\nYang paling aku suka dari kita adalah bagaimana semuanya terasa setara. Nggak ada yang mencintai lebih sedikit, nggak ada yang berjuang setengah-setengah. Kita sama-sama saling sayang, sama-sama mau ngerti tanpa harus diminta berkali-kali, dan yang paling bikin lega: di antara kita nggak ada yang namanya gengsi. Kalau kangen ya bilang kangen, kalau salah ya minta maaf, kalau capek ya saling nyender. Semuanya mengalir senyaman dan setenang itu.\n\nTerima kasih ya, udah bikin aku ngerasa dicintai secara gila-gilaan dan ugal-ugalan kayak gini. Terima kasih udah selalu nunjukin lewat sikap dan perhatian kamu kalau aku itu berharga dan pantas diusahakan. Kamu nggak cuma jadi pasangan buat aku, tapi juga jadi tempat pulang paling nyaman setelah hari-hari yang berat.\n\nJangan pernah berubah ya, sayang. Tetap jadi kamu yang hangat, yang pengertian, dan yang selalu bikin aku jatuh cinta lagi setiap harinya. Aku sayang banget sama kamu, lebih dari yang bisa aku tulis di sini.",
+    "from": "Your Love.",
+    "login_password": "",
+    "login_hint": "Tanggal Jadian?",
+    "playlist": [{
+        "type": "mp3",
+        "isLibrary": true,
+        "url": "./assets/sampai-jadi-debu.mp3",
+        "src": "./assets/sampai-jadi-debu.mp3",
+        "name": "Sampai Jadi Debu",
+        "audioName": "Sampai Jadi Debu",
+        "coverUrl": "./assets/sampai-jadi-debu-cover.jpg",
+        "title": "Sampai Jadi Debu",
+        "artist": "Banda Neira"
+    }],
+    "theme": "dusty-rose",
+    "status": "published",
+    "is_active": true,
+    "show_watermark": true,
+    "isPremium": false,
+    "_meta": {
+        "theme_folder": "letter"
+    },
+    "publishedAt": "2026-04-15T09:23:04.043Z",
+    "requestedAt": "2026-04-15T09:24:14.010Z",
+    "secretMediaList": [
+        { "url": "./assets/secret/BLRU0211.JPG", "caption": "" },
+        { "url": "./assets/secret/BSMJ1335.JPG", "caption": "" },
+        { "url": "./assets/secret/DRDX9320.JPG", "caption": "" },
+        { "url": "./assets/secret/DRHF8871.JPG", "caption": "" },
+        { "url": "./assets/secret/GTYP2500.JPG", "caption": "" },
+        { "url": "./assets/secret/HCDP9125.JPG", "caption": "" },
+        { "url": "./assets/secret/HXXI3656.JPG", "caption": "" },
+        { "url": "./assets/secret/LFVA6663.JPG", "caption": "" },
+        { "url": "./assets/secret/LYEZ8831.JPG", "caption": "" },
+        { "url": "./assets/secret/RNXB8217.JPG", "caption": "" },
+        { "url": "./assets/secret/TTXK7815.JPG", "caption": "" },
+        { "url": "./assets/secret/UMJF8725.JPG", "caption": "" },
+        { "url": "./assets/secret/VIWI4232.JPG", "caption": "" },
+        { "url": "./assets/secret/XWJV0301.JPG", "caption": "" }
+    ]
+};
